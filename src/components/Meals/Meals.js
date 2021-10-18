@@ -5,9 +5,9 @@ import AvailableMeals from "./AvailableMeals";
 const Meals = () => {
   return (
     <Fragment>
-      <MealsSummary></MealsSummary>
+      <MealsSummary />
 
-      <AvailableMeals> </AvailableMeals>
+      <AvailableMeals />
     </Fragment>
   );
 };
