@@ -4,11 +4,10 @@ import Meals from "./components/Meals/Meals";
 function App() {
   return (
     <Fragment>
-      <Header>
-        <main>
-          <Meals>Hello</Meals>
-        </main>
-      </Header>
+      <Header />
+      <main>
+        <Meals>Hello</Meals>
+      </main>
     </Fragment>
   );
 }

@@ -15,8 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "precommit": "pretty-quick --staged"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -39,9 +38,6 @@
   "devDependencies": {
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "husky": "^7.0.2",
-    "lint-staged": "^11.2.3",
-    "prettier": "^2.4.1",
-    "pretty-quick": "^3.1.1"
+    "prettier": "^2.4.1"
   }
 }
